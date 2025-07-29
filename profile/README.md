@@ -15,3 +15,4 @@
 - [x] [Lunar X](https://github.com/MacroSTAR-Studio/Lunar-X) 林浅月机器人5.0，开启自研之路（仍在开发中）
 - [x] Lunar UI 基于Windows的改版系统，美化+优化，让系统更好用、易用
 - [x] RuiCraft|鸿瑞服务器 宏星工作室的旗下服务器
+- [x] AI_Vtuber 由[桃子](https://bgithub.xyz/orgs/MacroSTAR-MS/people/Welsonpeaches)（[桃子2](https://bgithub.xyz/orgs/MacroSTAR-MS/people/Peachesmoon)）构建的AI 直播框架
