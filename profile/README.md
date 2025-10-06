@@ -7,8 +7,7 @@
 >
 > 全GitHub只有这一个官方组织，其他任何组织均为假冒
 >
-> 旗下账号
-> [MacroSTAR-Studio](https://github.com/MacroSTAR-Studio)
+> 旗下账号[MacroSTAR-Studio](https://github.com/MacroSTAR-Studio)已经弃用，请不要往此账号发送PR、star等操作（因为我登不上去了）
 
 ### 我们拥有的项目：
 - [x] [Lunar_Bot](https://github.com/MacroSTAR-Studio/Lunar_Bot) 林浅月机器人3.0-4.0
